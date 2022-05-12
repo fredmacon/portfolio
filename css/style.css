@@ -1,0 +1,13 @@
+.hero{
+    height: 70vh;
+    background-color:darkgray;
+    display: flex;
+    align-items: center;
+}
+
+.footer{
+    background-color: lightgray;
+    text-align: center;
+    padding: 40px;
+    margin-top: 60px;
+}
